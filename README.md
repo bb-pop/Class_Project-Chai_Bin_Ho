@@ -1,2 +1,2 @@
 # Class_Project-Warehouse_System
-Project ในรายวิชา Mobile Development เป็นเเอพสำหรับจัดเก็บคลังสินค้าเเละตรวจสอบสินค้า
+Project ในรายวิชา Mobile Development เป็นเเอพสำหรับเช็คดูค่าหอพัก
